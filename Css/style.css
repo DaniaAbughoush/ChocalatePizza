@@ -1,0 +1,71 @@
+body{
+   
+   margin:60px;
+    
+} 
+ li{
+    display: inline;
+}
+div{
+    display: inline;
+}
+.nsec{
+    font-display: inherit;
+    float :right;
+    margin-right: 920px;
+    
+}
+#nthird{
+    clear:both;
+    float:right;
+    margin-bottom: 10px;
+    margin-right: 320px;
+}
+#slash{
+    margin:20px;
+}
+#nthird:nth-child(7){
+    margin-left: 600px;
+}
+
+#print p{
+float:right;
+
+}
+#print img {
+    float:right;
+    /* margin-right: 400px; */
+    width: 20px;
+    
+}
+#print{
+   position:absolute;
+   margin-left: 840px;
+}
+
+#text p{
+    height:50%;
+    width: 900px;
+    
+   }
+   #van{
+       display: inline;
+       float:right;
+       height:50%;
+       width: 500px;
+       margin-right:650px;
+   }
+ button{
+       float:right;
+       margin-right:300px;
+       
+       padding:14px 100px;
+       background-color:purple  }
+
+  form{
+   
+  
+      background-image:url(https://github.com/DaniaAbughoush/amman-201d19/blob/master/class-10/lab-a/lab-assets/list-bg.png?raw=true);
+    
+    background-size: 300px 100px;
+    } 

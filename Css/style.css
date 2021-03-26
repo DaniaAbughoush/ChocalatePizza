@@ -1,71 +1,142 @@
+  
 body{
-   
-   margin:60px;
+   padding: 50px 200px;
+    margin:60px;  
+ } 
+  li{
+     display: inline;
+ }
+ div{
+     display: inline;
+ }
+ .nsec{
+     font-display: inherit;
+     float :right;
+     margin-right: 620px;
+     
+ }
+ #nthird{
+     clear:both;
+     float:right;
+     margin-bottom: 10px;
+     margin-right: -70px;
+ }
+ #slash{
+     margin:20px;
+ }
+ #nthird{
+     margin-right: 20px;
+ }
+ #nfourth{
+     float:right;
+     margin-right:-240px;
+ }
+ 
+ #print p{
+ float:right;
+ 
+ }
+ #print img {
+     float:right;
+     /* margin-right: 400px; */
+     width: 15px;
+     
+ }
+ #print{
+    position:absolute;
+    margin-left: 650px;
+ }
+ 
+ #text p{
+     height:50%;
+     width: 900px;
+     
+    }
+    /* #van{
+        display: inline;
+        /* float:left;
+        height:50%;
+        width: 500px;
+        margin-right:1500px; */
     
-} 
- li{
-    display: inline;
-}
-div{
-    display: inline;
-}
-.nsec{
-    font-display: inherit;
-    float :right;
-    margin-right: 920px;
-    
-}
-#nthird{
-    clear:both;
-    float:right;
-    margin-bottom: 10px;
-    margin-right: 320px;
-}
-#slash{
-    margin:20px;
-}
-#nthird:nth-child(7){
-    margin-left: 600px;
-}
-
-#print p{
-float:right;
-
-}
-#print img {
-    float:right;
-    /* margin-right: 400px; */
-    width: 20px;
-    
-}
-#print{
-   position:absolute;
-   margin-left: 840px;
-}
-
-#text p{
-    height:50%;
-    width: 900px;
-    
-   }
-   #van{
-       display: inline;
-       float:right;
-       height:50%;
-       width: 500px;
-       margin-right:650px;
-   }
- button{
-       float:right;
-       margin-right:300px;
-       
-       padding:14px 100px;
-       background-color:purple  }
-
+  button{
+        float:right;
+        margin-right:20px;
+             
+        padding:14px 100px;
+        background-color:rgb(153, 77, 77)}
+ 
   form{
    
-  
-      background-image:url(https://github.com/DaniaAbughoush/amman-201d19/blob/master/class-10/lab-a/lab-assets/list-bg.png?raw=true);
+    height:90%;
+    width: 900px;
+    background: url(https://am3pap002files.storage.live.com/y4mpF-dQ067QezPvi6p6uk929ixS_9C-KB47iH654g6OjaUWjII0172EWUOV85V25oNE6BXU_ebcOYB6Oh59cCBUjD6ClKZXLCf_iaksZzWLgBoGRhMI-FaVEcapIQpBw4lnxG0C170x2wRQU19JeSZutCKNfcn8doewwj7W8NOSYIkJ2nv4FXnI-DvA1NDVwDkJant79PAldARN_gcuPMzOw/list-bg.png?psid=1&width=899&height=305);
+     background-size: 900px 300px ; 
     
-    background-size: 300px 1700px;
-    } 
+     
+     } 
+      /* table {
+        
+       height:60%
+
+       width:850px;
+
+      } */
+       
+      td {
+        height: 50px;
+       padding-right: 195px;
+       padding-left: 40px;
+       
+      } 
+       footer {
+        clear:both; }
+    
+      
+        footer img,p {
+          display: inline;
+      }
+ footer img {
+    
+    position: relative;
+} 
+ 
+ #ft img{
+     
+   position:absolute;
+    
+ } 
+#cook{
+    float:left;
+    margin-right:30px;
+}
+
+#van li p{
+ height: 5%;
+ width: 60px;
+ 
+} 
+
+.delesious{
+    clear:both;
+   margin-left:320px;
+}
+/* //////////////////////font/////////////// */
+#dil1{
+    font-family: 'Yellowtail', cursive;
+    font-weight: bolde;
+    font-size: xx-large;
+}
+.dil2 ,.delesious{
+font-size: x-small;
+color:gray;
+}
+h1{
+    font-size: xx-large;
+    font-weight: bolder;font-family: 'Francois One', sans-serif;
+}
+
+#profile{
+   font-size: small ;
+
+}
